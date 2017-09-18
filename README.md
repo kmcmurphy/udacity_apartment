@@ -10,7 +10,7 @@ Overall, the project took about 12 hours to complete. Much of this time was spen
 ## Credits
 - Dining table, chairs
 - Couch, TV table, bookshelf and vase
-- Plant
+- Plant: [Small Plants](https://assetstore.unity.com/packages/3d/vegetation/plants/small-plants-6930)
 - Ceiling lights
 - Tile backsplash textures 
 
