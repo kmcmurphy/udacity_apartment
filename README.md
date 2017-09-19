@@ -1,6 +1,6 @@
 # Udacity Apartment Starter Project
 
-This is the build for project 2. 
+This is the build for project 2. This is built for iOS devices.
 
 ## Project Retrospective
 I tried various lower light map resolution settings and wasn’t happy with the results. Tried cranking it up to 500 and increasing the size to 2048 and got the smoother shadows and less light bleed than at the lower settings - while still outputting 60fps. Final settings we as stated in the project specifications at the 80 texel resolution. 
